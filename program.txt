@@ -1,0 +1,7 @@
+int a=2;
+int b= -67;
+if(2a==bjuyu45)
+
+{
+	string ewrd="opfr rfepo refro"
+}
